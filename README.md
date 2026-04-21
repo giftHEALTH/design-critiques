@@ -4,7 +4,7 @@ Design critique briefs produced by the Gifthealth Digital Experience plugin. Cri
 
 ## What lives in this repo
 
-Briefs are written by agents, not humans. Every brief is a structured markdown document with YAML frontmatter (14+ keys) plus the full critique body. Two kinds live here:
+Briefs are written by agents, not humans. Every brief is a structured markdown document with YAML frontmatter (15+ keys) plus the full critique body. Two kinds live here:
 
 - **Multi-lens** (`/design-review`) — orchestrated review across patient, commercial, and craft lenses with synthesized consensus, tensions, and a ranked top-5 action list. Path: `design/critiques/YYYY-MM-DD-slug.md`.
 - **Single-lens** (`/critique-patient`, `/critique-commercial`, `/critique-craft`) — one lens, opt-in persist. Path: `design/critiques/single/{lens}/YYYY-MM-DD-slug.md`.
@@ -37,7 +37,7 @@ Briefs are written by the `gifthealth-digital-experience` plugin ([giftHEALTH/ag
 
 ## Access
 
-Public repository. Write access is granted to Gifthealth org members — ask the Digital Experience team or a repo admin if you need push permissions.
+Public repository. Push access is granted per user or per team via GitHub repo permissions — a repo admin adds Gifthealth org members or teams to the push-access list. If you can read but not push, ask a repo admin or the Digital Experience team for write permission, and run `/dx-doctor` from the plugin to confirm.
 
 ## Read-only sources
 
