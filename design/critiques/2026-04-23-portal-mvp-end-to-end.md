@@ -15,7 +15,7 @@ top_heuristics: [N1, N4, N6, law-von-restorff, law-goal-gradient]
 top_biases: [bias-zeigarnik, bias-choice-overload]
 scope: multi-lens
 figma_write_blocked: false
-revised_page_url: "https://www.figma.com/design/awfubM5IdTkKcvrHn2hW8C/?node-id=6019:2"
+revised_page_url: "https://www.figma.com/design/awfubM5IdTkKcvrHn2hW8C/?node-id=6032:2"
 ---
 
 # Design Critique: Portal MVP End to End
