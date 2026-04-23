@@ -1,6 +1,23 @@
 {
   "entries": [
     {
+      "slug": "2026-04-23-portal-mvp-end-to-end",
+      "date": "2026-04-23",
+      "title": "Design Critique: Portal MVP End to End",
+      "scope": "multi-lens",
+      "artifact": "https://www.figma.com/design/awfubM5IdTkKcvrHn2hW8C/test-temp?node-id=3895-7741&p=f&t=seCTlC9HWSZhpGcT-0",
+      "artifact_type": "figma",
+      "invoked_by": "alexturvy",
+      "reviewed_lenses": ["patient-advocate", "commercial-lens", "craft-critic"],
+      "summary": "Portal MVP shape is right but hardcodes Lilly branding, defers cost and transfer, and leaves error states with hidden support.",
+      "top_heuristics": ["N1", "N4", "N6", "law-von-restorff", "law-goal-gradient"],
+      "top_biases": ["bias-zeigarnik", "bias-choice-overload"],
+      "figma_write_blocked": false,
+      "revised_page_url": "",
+      "path": "design/critiques/2026-04-23-portal-mvp-end-to-end.md",
+      "link": "https://github.com/giftHEALTH/design-critiques/blob/main/design/critiques/2026-04-23-portal-mvp-end-to-end.md"
+    },
+    {
       "slug": "2026-04-23-more-robust-nav-system-2",
       "date": "2026-04-23",
       "title": "Design Critique: More Robust Nav System",
