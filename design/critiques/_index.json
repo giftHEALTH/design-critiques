@@ -1,6 +1,23 @@
 {
   "entries": [
     {
+      "slug": "2026-04-24-portal-mvp-end-to-end-2",
+      "date": "2026-04-24",
+      "title": "Design Critique: Portal MVP End to End",
+      "scope": "multi-lens",
+      "artifact": "https://www.figma.com/design/awfubM5IdTkKcvrHn2hW8C/test-temp?node-id=3895-7741&p=f&t=keU0OMWoZJ29ZMKb-0",
+      "artifact_type": "figma",
+      "invoked_by": "alexturvy",
+      "reviewed_lenses": ["patient-advocate", "commercial-lens", "craft-critic"],
+      "summary": "Portal MVP solid; placeholder copy, silent Canceled/pre-tracking states, clinician data on Rx, and single-tenant header all block ship.",
+      "top_heuristics": ["N4", "N5", "N1", "N6", "N9"],
+      "top_biases": ["bias-curiosity-gap", "bias-zeigarnik"],
+      "figma_write_blocked": false,
+      "revised_page_url": "",
+      "path": "design/critiques/2026-04-24-portal-mvp-end-to-end-2.md",
+      "link": "https://github.com/giftHEALTH/design-critiques/blob/main/design/critiques/2026-04-24-portal-mvp-end-to-end-2.md"
+    },
+    {
       "slug": "2026-04-24-portal-mvp-end-to-end",
       "date": "2026-04-24",
       "title": "Design Critique: Portal MVP End to End",
