@@ -1,6 +1,23 @@
 {
   "entries": [
     {
+      "slug": "2026-04-24-portal-mvp-end-to-end",
+      "date": "2026-04-24",
+      "title": "Design Critique: Portal MVP End to End",
+      "scope": "multi-lens",
+      "artifact": "https://www.figma.com/design/awfubM5IdTkKcvrHn2hW8C/test-temp?node-id=3895-7741&p=f&t=keU0OMWoZJ29ZMKb-0",
+      "artifact_type": "figma",
+      "invoked_by": "alexturvy",
+      "reviewed_lenses": ["patient-advocate", "commercial-lens", "craft-critic"],
+      "summary": "Portal MVP ships as LillyDirect-branded not platform; brand casing broken; status pills, rejected-Rx state, tenant tokens all missing.",
+      "top_heuristics": ["N1", "N6", "N4", "N3", "N5"],
+      "top_biases": ["bias-recognition-over-recall"],
+      "figma_write_blocked": false,
+      "revised_page_url": "",
+      "path": "design/critiques/2026-04-24-portal-mvp-end-to-end.md",
+      "link": "https://github.com/giftHEALTH/design-critiques/blob/main/design/critiques/2026-04-24-portal-mvp-end-to-end.md"
+    },
+    {
       "slug": "2026-04-23-portal-mvp-end-to-end",
       "date": "2026-04-23",
       "title": "Design Critique: Portal MVP End to End",
