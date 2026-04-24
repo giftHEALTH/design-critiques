@@ -15,7 +15,7 @@ top_heuristics: [N4, N1, N6, law-miller, law-peak-end]
 top_biases: []
 scope: multi-lens
 figma_write_blocked: false
-revised_page_url: ""
+revised_page_url: "https://www.figma.com/design/awfubM5IdTkKcvrHn2hW8C/?node-id=6100:2"
 ---
 
 # Design Critique: Account Order History
